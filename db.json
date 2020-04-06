@@ -1,4 +1,4 @@
-[
+
   {"position": 1, "company": "company1", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
   {"position": 2, "company": "company2", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
   {"position": 3, "company": "company3", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
@@ -8,4 +8,4 @@
   {"position": 7, "company": "company7", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
   {"position": 8, "company": "company8", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
   {"position": 9, "company": "company9", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"}
-]
+
