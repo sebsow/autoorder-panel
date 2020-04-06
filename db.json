@@ -1,3 +1,4 @@
-{"order":{
-  "position": 1, "company": "company1", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"}
+{"order":
+  {"position": 1, "company": "company1", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"},
+  {"position": 2, "company": "company2", "email": "adres@email.com", "admin": "Zdzisiek", "functions": "Dostęp do panel AC/DC"}
 }
