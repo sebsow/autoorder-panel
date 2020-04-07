@@ -15,6 +15,38 @@
          "email": "adres@email.com",
          "admin": "Zdzisiek",
          "functions": "Dostęp do panel AC/DC"
+      },
+      
+      {
+         "position": 3,
+         "company": "company3",
+         "email": "adres@email.com",
+         "admin": "Zdzisiek",
+         "functions": "Dostęp do panel AC/DC"
+      },
+      
+      {
+         "position": 4,
+         "company": "company2",
+         "email": "adres@email.com",
+         "admin": "Zdzisiek",
+         "functions": "Dostęp do panel AC/DC"
+      },
+      
+      {
+         "position": 5,
+         "company": "company2",
+         "email": "adres@email.com",
+         "admin": "Zdzisiek",
+         "functions": "Dostęp do panel AC/DC"
+      },
+      
+      {
+         "position": 6,
+         "company": "company2",
+         "email": "adres@email.com",
+         "admin": "Zdzisiek",
+         "functions": "Dostęp do panel AC/DC"
       }
 
    ]
